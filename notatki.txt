@@ -1,0 +1,12 @@
+fakty
+lubi(janek,jabła).
+
+
+reguły
+head :- body
+
+klauzula to fakt albo reguła
+
+
+
+= -  termy dadzą się uzgodnić z sobą
